@@ -1,0 +1,2 @@
+- Add multi-monitor support
+- if no reg key, load all shortcuts

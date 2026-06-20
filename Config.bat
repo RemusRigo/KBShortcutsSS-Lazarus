@@ -1,0 +1,1 @@
+start KBShortcuts.scr /c
