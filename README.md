@@ -26,6 +26,8 @@ A screensaver that shows shortcuts and their description.
 
 ## Statistics
 
+![status](https://img.shields.io/badge/status-completed-brightgreen)
+<br>
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/SoftwareInstaller-PS/total)
 
 
